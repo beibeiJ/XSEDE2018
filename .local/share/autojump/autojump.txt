@@ -1,0 +1,9 @@
+14.1421356237	/home/ifadugba/Exercises/MPI/Solutions
+59.9999999999	/home/ifadugba/Exercises
+31.6227766016	/home/ifadugba/Exercises/MPI/BC_Challenge
+114.017542509	/home/ifadugba/Exercises/OpenACC
+129.614813966	/home/ifadugba/Exercises/MPI
+59.1607978309	/home/ifadugba/Exercises/OpenMP/Prime
+52.9150262211	/home/ifadugba/Exercises/Test
+81.8535277189	/home/ifadugba/Exercises/OpenMP
+342.344855368	/home/ifadugba/Exercises/MPI/BC_Challenge/laplace_chlng
